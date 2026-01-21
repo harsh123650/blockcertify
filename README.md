@@ -4,6 +4,12 @@ Blockcertify is a secure digital certificate issuing and verification platform d
 
 The system eliminates manual certificate verification and reduces the risk of fake or tampered credentials by maintaining trusted digital records.
 
+> 🧩 **My Role**  
+> BlockCertify is designed to allow certificate issue, manage and verify certificate in the blockchain.
+> I performed API testing and verified request–response flow between frontend and backend.
+> Worked on improving the React frontend and helped ensure proper API integration.
+> Setup token based email verification.
+
 --------------------------------------------------
 
 ![Login](Login.png)
