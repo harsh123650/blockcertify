@@ -5,6 +5,12 @@ Blockcertify is a secure digital certificate issuing and verification platform d
 The system eliminates manual certificate verification and reduces the risk of fake or tampered credentials by maintaining trusted digital records.
 
 --------------------------------------------------
+
+
+
+
+--------------------------------------------------
+
 > 🧩 **Blockcertify is not a public blockchain network..**  
 > It is a controlled digital certification system where certificates are issued and verified within a secure environment.
 
