@@ -5,9 +5,11 @@ Blockcertify is a secure digital certificate issuing and verification platform d
 The system eliminates manual certificate verification and reduces the risk of fake or tampered credentials by maintaining trusted digital records.
 
 --------------------------------------------------
+> 🧩 **Blockcertify is not a public blockchain network..**  
+> It is a controlled digital certification system where certificates are issued and verified within a secure environment.
 
-Blockcertify is not a public blockchain network.
-It is a controlled digital certification system where certificates are issued and verified within a secure environment.
+
+
 
 --------------------------------------------------
 
@@ -127,19 +129,13 @@ blockcertify/
 
 ## Setup Instructions
 
-1. Clone the repository
-
-git clone https://github.com/harsh123650/Blockcertify.git
-cd Blockcertify
+1. Install Setup
 
 2. Install dependencies
 
 npm install
 
 3. Configure environment variables
-
-SMTP_EMAIL=your_email@gmail.com
-SMTP_PASSWORD=your_app_password
 
 4. Run the application
 
@@ -165,7 +161,7 @@ http://localhost:3000
 
 Project Name: Blockcertify  
 Developer: Harshal Patil  
-GitHub: https://github.com/harsh123650/Blockcertify  
+ 
 
 --------------------------------------------------
 
